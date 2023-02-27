@@ -23,13 +23,6 @@
                     <td><button>)</button></td>
                     <td><button>C</button></td>
                     <td><button>%</button></td>
-
-                </tr>
-                <tr>
-                    <td><button>Sin</button></td>
-                    <td><button>Cos</button></td>
-                    <td><button>tan</button></td>
-                    <td><button>x^2</button></td>
                 </tr>
                 <tr>
                     <td><button>7</button></td>
