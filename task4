@@ -1,5 +1,6 @@
 # calculator.html
-<html lang="en">
+<!DOCTYPE html>
+<html>
 
 <head>
     <meta charset="UTF-8">
@@ -10,8 +11,9 @@
 </head>
 
 <body>
+<center>
     <div class="container">
-        <h1>GAME OF NUMBER</h1>
+        <h2>GAME OF NUMBER</h2>
 
         <div class="calculator">
             <input type="text" name="screen" id="screen">
@@ -58,7 +60,7 @@
             </table>
         </div>
     </div>
-
+</centre>
 </body>
 <script src="script.js"></script>
 </html>
